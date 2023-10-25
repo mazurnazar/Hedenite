@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4742481958890210800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde83bbbe0f71419144c7226bfce5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames: []
+  description: "If I want to start with the post, I should go straight ahead. If
+    I want to go the Herbalist\u2019s first, I need to turn left. "
+  completed: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f67fbc301b70ab841ac19be13eee1d01, type: 3}
+  m_Name: Crossroads
+  m_EditorClassIdentifier: 
+  tasks:
+  - {fileID: -4742481958890210800}

@@ -1,0 +1,2060 @@
+fileFormatVersion: 2
+guid: 7be1c904b19bec846b42e64fbaa868dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7677010376645041057
+    second: granny_new_part1_talks (5)_0
+  - first:
+      213: -299767894288347073
+    second: granny_new_part1_talks (5)_1
+  - first:
+      213: 2876760839747260343
+    second: granny_new_part1_talks (5)_2
+  - first:
+      213: 8183871494576203636
+    second: granny_new_part1_talks (5)_3
+  - first:
+      213: 8759262428620330822
+    second: granny_new_part1_talks (5)_4
+  - first:
+      213: -8089446923661269384
+    second: granny_new_part1_talks (5)_5
+  - first:
+      213: 4715571847112538232
+    second: granny_new_part1_talks (5)_6
+  - first:
+      213: 8103590965958839499
+    second: granny_new_part1_talks (5)_7
+  - first:
+      213: -8645208427263574421
+    second: granny_new_part1_talks (5)_8
+  - first:
+      213: -3042721070298566402
+    second: granny_new_part1_talks (5)_9
+  - first:
+      213: 6784885739051054830
+    second: granny_new_part1_talks (5)_10
+  - first:
+      213: -133749435711867832
+    second: granny_new_part1_talks (5)_11
+  - first:
+      213: 7246207158791194327
+    second: granny_new_part1_talks (5)_12
+  - first:
+      213: -4416596958362358940
+    second: granny_new_part1_talks (5)_13
+  - first:
+      213: -5885328085154923053
+    second: granny_new_part1_talks (5)_14
+  - first:
+      213: 8491170618376055311
+    second: granny_new_part1_talks (5)_15
+  - first:
+      213: 491233064351875161
+    second: granny_new_part1_talks (5)_16
+  - first:
+      213: -5684594428813628604
+    second: granny_new_part1_talks (5)_17
+  - first:
+      213: 8885168995489292306
+    second: granny_new_part1_talks (5)_18
+  - first:
+      213: 4247791202345104039
+    second: granny_new_part1_talks (5)_19
+  - first:
+      213: -8396209025737583135
+    second: granny_new_part1_talks (5)_20
+  - first:
+      213: -4450027449822237458
+    second: granny_new_part1_talks (5)_21
+  - first:
+      213: 5464370856206728184
+    second: granny_new_part1_talks (5)_22
+  - first:
+      213: -8026760815054881417
+    second: granny_new_part1_talks (5)_23
+  - first:
+      213: -9115059497074267669
+    second: granny_new_part1_talks (5)_24
+  - first:
+      213: 8921072438573431081
+    second: granny_new_part1_talks (5)_25
+  - first:
+      213: 2068011396775338809
+    second: granny_new_part1_talks (5)_26
+  - first:
+      213: 8891806575280415441
+    second: granny_new_part1_talks (5)_27
+  - first:
+      213: 5702788878711729106
+    second: granny_new_part1_talks (5)_28
+  - first:
+      213: 5208949549685482747
+    second: granny_new_part1_talks (5)_29
+  - first:
+      213: 5020232315585943729
+    second: granny_new_part1_talks (5)_30
+  - first:
+      213: 6800901497307540530
+    second: granny_new_part1_talks (5)_31
+  - first:
+      213: -3917965741866732995
+    second: granny_new_part1_talks (5)_32
+  - first:
+      213: 2562004305154782742
+    second: granny_new_part1_talks (5)_33
+  - first:
+      213: -4650828787165137551
+    second: granny_new_part1_talks (5)_34
+  - first:
+      213: -2927165338945114695
+    second: granny_new_part1_talks (5)_35
+  - first:
+      213: 7408808280301216980
+    second: granny_new_part1_talks (5)_36
+  - first:
+      213: -9025221427130702716
+    second: granny_new_part1_talks (5)_37
+  - first:
+      213: 443216286225650611
+    second: granny_new_part1_talks (5)_38
+  - first:
+      213: 7893851103920672901
+    second: granny_new_part1_talks (5)_39
+  - first:
+      213: -1940690082015923962
+    second: granny_new_part1_talks (5)_40
+  - first:
+      213: -927615201217379894
+    second: granny_new_part1_talks (5)_41
+  - first:
+      213: 2442782452106489399
+    second: granny_new_part1_talks (5)_42
+  - first:
+      213: 3290303773555782643
+    second: granny_new_part1_talks (5)_43
+  - first:
+      213: 2370553721028651375
+    second: granny_new_part1_talks (5)_44
+  - first:
+      213: -1251916344278558549
+    second: granny_new_part1_talks (5)_45
+  - first:
+      213: 4763712675534986994
+    second: granny_new_part1_talks (5)_46
+  - first:
+      213: -6309079486148308867
+    second: granny_new_part1_talks (5)_47
+  - first:
+      213: -1661361271989943712
+    second: granny_new_part1_talks (5)_48
+  - first:
+      213: -2292379399472229342
+    second: granny_new_part1_talks (5)_49
+  - first:
+      213: 6821995269245477281
+    second: granny_new_part1_talks (5)_50
+  - first:
+      213: 7461145820882614046
+    second: granny_new_part1_talks (5)_51
+  - first:
+      213: -1027157388898559419
+    second: granny_new_part1_talks (5)_52
+  - first:
+      213: 412793646118170800
+    second: granny_new_part1_talks (5)_53
+  - first:
+      213: 2075362206120451887
+    second: granny_new_part1_talks (5)_54
+  - first:
+      213: -9155856864709680621
+    second: granny_new_part1_talks (5)_55
+  - first:
+      213: -1352318334665258895
+    second: granny_new_part1_talks (5)_56
+  - first:
+      213: -1711131069806182849
+    second: granny_new_part1_talks (5)_57
+  - first:
+      213: -5894064655109882896
+    second: granny_new_part1_talks (5)_58
+  - first:
+      213: -6666125603282064601
+    second: granny_new_part1_talks (5)_59
+  - first:
+      213: -1853269841972985660
+    second: granny_new_part1_talks (5)_60
+  - first:
+      213: 5563061171461655744
+    second: granny_new_part1_talks (5)_61
+  - first:
+      213: -1093572844107685973
+    second: granny_new_part1_talks (5)_62
+  - first:
+      213: -1923786240575734428
+    second: granny_new_part1_talks (5)_63
+  - first:
+      213: -1325472371082058188
+    second: granny_new_part1_talks (5)_64
+  - first:
+      213: 7478756284095913999
+    second: granny_new_part1_talks (5)_65
+  - first:
+      213: 4072377035102452688
+    second: granny_new_part1_talks (5)_66
+  - first:
+      213: 9012677165802712462
+    second: granny_new_part1_talks (5)_67
+  - first:
+      213: -4447419624206450892
+    second: granny_new_part1_talks (5)_68
+  - first:
+      213: -3080660436745924224
+    second: granny_new_part1_talks (5)_69
+  - first:
+      213: 2964918096685447243
+    second: granny_new_part1_talks (5)_70
+  - first:
+      213: -4741083087586879783
+    second: granny_new_part1_talks (5)_71
+  - first:
+      213: 2119064413796158852
+    second: granny_new_part1_talks (5)_72
+  - first:
+      213: 1885840647394111529
+    second: granny_new_part1_talks (5)_73
+  - first:
+      213: -8618701189666708645
+    second: granny_new_part1_talks (5)_74
+  - first:
+      213: -4226437504774260416
+    second: granny_new_part1_talks (5)_75
+  - first:
+      213: -4899880274800511158
+    second: granny_new_part1_talks (5)_76
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5ae453483a8a60800000000000000
+      internalID: 7677010376645041057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3050e930b207dbf0800000000000000
+      internalID: -299767894288347073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_2
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfc3e4fdbe4ce720800000000000000
+      internalID: 2876760839747260343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_3
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477e8a9a3c3f29170800000000000000
+      internalID: 8183871494576203636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_4
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647175035c62f8970800000000000000
+      internalID: 8759262428620330822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_5
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762bc5f1e28cbf80800000000000000
+      internalID: -8089446923661269384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_6
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b9fb5c93117140800000000000000
+      internalID: 4715571847112538232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_7
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8a038c0db57070800000000000000
+      internalID: 8103590965958839499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_8
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ebdbb5dbc060880800000000000000
+      internalID: -8645208427263574421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_9
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f14ebe4516c5d0800000000000000
+      internalID: -3042721070298566402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_10
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 7352
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee670cdb1a1c82e50800000000000000
+      internalID: 6784885739051054830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443c7bc893d42ef0800000000000000
+      internalID: -133749435711867832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d644a4d403bf8460800000000000000
+      internalID: 7246207158791194327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46badbc677815b2c0800000000000000
+      internalID: -4416596958362358940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_14
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf5b1d94d135ea0800000000000000
+      internalID: -5885328085154923053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_15
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae98370b2b6d570800000000000000
+      internalID: 8491170618376055311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_16
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ce9e8ed531d600800000000000000
+      internalID: 491233064351875161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_17
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b266a3c734c11b0800000000000000
+      internalID: -5684594428813628604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_18
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210247130267e4b70800000000000000
+      internalID: 8885168995489292306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_19
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23fcfb79f23fa30800000000000000
+      internalID: 4247791202345104039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_20
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59bf8406caa7b80800000000000000
+      internalID: -8396209025737583135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_21
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 6512
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecab949c935e32c0800000000000000
+      internalID: -4450027449822237458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf23d975855db40800000000000000
+      internalID: 5464370856206728184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df0a9f0973b9090800000000000000
+      internalID: -8026760815054881417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_24
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9665a5eadc08180800000000000000
+      internalID: -9115059497074267669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_25
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92972b4fd140ecb70800000000000000
+      internalID: 8921072438573431081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_26
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e048986d03bc10800000000000000
+      internalID: 2068011396775338809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_27
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2621b28fa066b70800000000000000
+      internalID: 8891806575280415441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_28
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db29a04540642f40800000000000000
+      internalID: 5702788878711729106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_29
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42fe96408e94840800000000000000
+      internalID: 5208949549685482747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_30
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8df6451b27ba540800000000000000
+      internalID: 5020232315585943729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_31
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c207b01e7a16e50800000000000000
+      internalID: 6800901497307540530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_32
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 5672
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3232e18ae690a9c0800000000000000
+      internalID: -3917965741866732995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b5c967511e8320800000000000000
+      internalID: 2562004305154782742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757cd5fbdfe47fb0800000000000000
+      internalID: -4650828787165137551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_35
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd275d02ae9067d0800000000000000
+      internalID: -2927165338945114695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_36
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a35c90ef51d660800000000000000
+      internalID: 7408808280301216980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_37
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48461a00ee8ffb280800000000000000
+      internalID: -9025221427130702716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_38
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d5233dde962600800000000000000
+      internalID: 443216286225650611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_39
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580540f61c79c8d60800000000000000
+      internalID: 7893851103920672901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_40
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601315217a84115e0800000000000000
+      internalID: -1940690082015923962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_41
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18f23a3e27023f0800000000000000
+      internalID: -927615201217379894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_42
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e6d51a2b186e120800000000000000
+      internalID: 2442782452106489399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_43
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 4832
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37be969d189ad20800000000000000
+      internalID: 3290303773555782643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a4eeac06e5e020800000000000000
+      internalID: 2370553721028651375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_45
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba855c2c7bc40aee0800000000000000
+      internalID: -1251916344278558549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fed94d607b1c1240800000000000000
+      internalID: 4763712675534986994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_47
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d701d6062a5a178a0800000000000000
+      internalID: -6309079486148308867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_48
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c273b9b8a1f8e0800000000000000
+      internalID: -1661361271989943712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_49
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d80ce415df20e0800000000000000
+      internalID: -2292379399472229342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_50
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a5ca8d889cae50800000000000000
+      internalID: 6821995269245477281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_51
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17391fd7905b8760800000000000000
+      internalID: 7461145820882614046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_52
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a98420ccdceb1f0800000000000000
+      internalID: -1027157388898559419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_53
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0796252a98ab500800000000000000
+      internalID: 412793646118170800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_54
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 3992
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f94144eea2dcc10800000000000000
+      internalID: 2075362206120451887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31268acf0bcdfe080800000000000000
+      internalID: -9155856864709680621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_56
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788707b3a99b3de0800000000000000
+      internalID: -1352318334665258895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_57
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e7114ab57d048e0800000000000000
+      internalID: -1711131069806182849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_58
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7dfc9c63143ea0800000000000000
+      internalID: -5894064655109882896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_59
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6c3c151a2d73a0800000000000000
+      internalID: -6666125603282064601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_60
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08144d5ecd746e0800000000000000
+      internalID: -1853269841972985660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_61
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8dbc39a6f33d40800000000000000
+      internalID: 5563061171461655744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_62
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf92f2da49d2d0f0800000000000000
+      internalID: -1093572844107685973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_63
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df2ba5b965d45e0800000000000000
+      internalID: -1923786240575734428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_64
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4362f02b6e9fa9de0800000000000000
+      internalID: -1325472371082058188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_65
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 3152
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e14b5731e9c760800000000000000
+      internalID: 7478756284095913999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7db8465df38830800000000000000
+      internalID: 4072377035102452688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_67
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de1fe8126731d70800000000000000
+      internalID: 9012677165802712462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_68
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb21c4a679742c0800000000000000
+      internalID: -4447419624206450892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_69
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d822a7ab4f35d0800000000000000
+      internalID: -3080660436745924224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_70
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483015dc41852920800000000000000
+      internalID: 2964918096685447243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_71
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d695c91d0a443eb0800000000000000
+      internalID: -4741083087586879783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_72
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dcd786bdd686d10800000000000000
+      internalID: 2119064413796158852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_73
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9203be2c31adb2a10800000000000000
+      internalID: 1885840647394111529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_74
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53edac8ee8346880800000000000000
+      internalID: -8618701189666708645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_75
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ba866b7da855c0800000000000000
+      internalID: -4226437504774260416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granny_new_part1_talks (5)_76
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 2312
+        width: 696
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47729ac9d0200cb0800000000000000
+      internalID: -4899880274800511158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      granny_new_part1_talks (5)_0: 7677010376645041057
+      granny_new_part1_talks (5)_1: -299767894288347073
+      granny_new_part1_talks (5)_10: 6784885739051054830
+      granny_new_part1_talks (5)_11: -133749435711867832
+      granny_new_part1_talks (5)_12: 7246207158791194327
+      granny_new_part1_talks (5)_13: -4416596958362358940
+      granny_new_part1_talks (5)_14: -5885328085154923053
+      granny_new_part1_talks (5)_15: 8491170618376055311
+      granny_new_part1_talks (5)_16: 491233064351875161
+      granny_new_part1_talks (5)_17: -5684594428813628604
+      granny_new_part1_talks (5)_18: 8885168995489292306
+      granny_new_part1_talks (5)_19: 4247791202345104039
+      granny_new_part1_talks (5)_2: 2876760839747260343
+      granny_new_part1_talks (5)_20: -8396209025737583135
+      granny_new_part1_talks (5)_21: -4450027449822237458
+      granny_new_part1_talks (5)_22: 5464370856206728184
+      granny_new_part1_talks (5)_23: -8026760815054881417
+      granny_new_part1_talks (5)_24: -9115059497074267669
+      granny_new_part1_talks (5)_25: 8921072438573431081
+      granny_new_part1_talks (5)_26: 2068011396775338809
+      granny_new_part1_talks (5)_27: 8891806575280415441
+      granny_new_part1_talks (5)_28: 5702788878711729106
+      granny_new_part1_talks (5)_29: 5208949549685482747
+      granny_new_part1_talks (5)_3: 8183871494576203636
+      granny_new_part1_talks (5)_30: 5020232315585943729
+      granny_new_part1_talks (5)_31: 6800901497307540530
+      granny_new_part1_talks (5)_32: -3917965741866732995
+      granny_new_part1_talks (5)_33: 2562004305154782742
+      granny_new_part1_talks (5)_34: -4650828787165137551
+      granny_new_part1_talks (5)_35: -2927165338945114695
+      granny_new_part1_talks (5)_36: 7408808280301216980
+      granny_new_part1_talks (5)_37: -9025221427130702716
+      granny_new_part1_talks (5)_38: 443216286225650611
+      granny_new_part1_talks (5)_39: 7893851103920672901
+      granny_new_part1_talks (5)_4: 8759262428620330822
+      granny_new_part1_talks (5)_40: -1940690082015923962
+      granny_new_part1_talks (5)_41: -927615201217379894
+      granny_new_part1_talks (5)_42: 2442782452106489399
+      granny_new_part1_talks (5)_43: 3290303773555782643
+      granny_new_part1_talks (5)_44: 2370553721028651375
+      granny_new_part1_talks (5)_45: -1251916344278558549
+      granny_new_part1_talks (5)_46: 4763712675534986994
+      granny_new_part1_talks (5)_47: -6309079486148308867
+      granny_new_part1_talks (5)_48: -1661361271989943712
+      granny_new_part1_talks (5)_49: -2292379399472229342
+      granny_new_part1_talks (5)_5: -8089446923661269384
+      granny_new_part1_talks (5)_50: 6821995269245477281
+      granny_new_part1_talks (5)_51: 7461145820882614046
+      granny_new_part1_talks (5)_52: -1027157388898559419
+      granny_new_part1_talks (5)_53: 412793646118170800
+      granny_new_part1_talks (5)_54: 2075362206120451887
+      granny_new_part1_talks (5)_55: -9155856864709680621
+      granny_new_part1_talks (5)_56: -1352318334665258895
+      granny_new_part1_talks (5)_57: -1711131069806182849
+      granny_new_part1_talks (5)_58: -5894064655109882896
+      granny_new_part1_talks (5)_59: -6666125603282064601
+      granny_new_part1_talks (5)_6: 4715571847112538232
+      granny_new_part1_talks (5)_60: -1853269841972985660
+      granny_new_part1_talks (5)_61: 5563061171461655744
+      granny_new_part1_talks (5)_62: -1093572844107685973
+      granny_new_part1_talks (5)_63: -1923786240575734428
+      granny_new_part1_talks (5)_64: -1325472371082058188
+      granny_new_part1_talks (5)_65: 7478756284095913999
+      granny_new_part1_talks (5)_66: 4072377035102452688
+      granny_new_part1_talks (5)_67: 9012677165802712462
+      granny_new_part1_talks (5)_68: -4447419624206450892
+      granny_new_part1_talks (5)_69: -3080660436745924224
+      granny_new_part1_talks (5)_7: 8103590965958839499
+      granny_new_part1_talks (5)_70: 2964918096685447243
+      granny_new_part1_talks (5)_71: -4741083087586879783
+      granny_new_part1_talks (5)_72: 2119064413796158852
+      granny_new_part1_talks (5)_73: 1885840647394111529
+      granny_new_part1_talks (5)_74: -8618701189666708645
+      granny_new_part1_talks (5)_75: -4226437504774260416
+      granny_new_part1_talks (5)_76: -4899880274800511158
+      granny_new_part1_talks (5)_8: -8645208427263574421
+      granny_new_part1_talks (5)_9: -3042721070298566402
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

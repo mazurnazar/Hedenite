@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbcfe1c1e79f9574d9df634dce966921, type: 3}
+  m_Name: Riddles
+  m_EditorClassIdentifier: 
+  riddles:
+  - riddleNumber: Riddle1
+    riddleName: 'First things first. I''m going nowhere without my lucky charm! '
+    rightItem: Validator
+    rightAnswer: Here you are! My lucky validator. Legend has it, this thing's validated
+      nothing but lucky tickets. Ever. Got it from Granny. Our family relic, passed
+      from generation to generation.
+    wrongAnswers:
+    - Does it look like it brings luck?!
+    - Is it purple? Does it have a handle?
+    - This looks nothing like it!
+    - Wrong!
+    - Nah, that's not it.
+    - Could it be a lucky charm? Yes. Is it my lucky charm? No!
+    - This won't do.
+  - riddleNumber: Riddle2
+    riddleName: Okay, next. My sopilka.
+    rightItem: Sopilka
+    rightAnswer: Found it! aVa's gift. I suck at playing it but it never stopped
+      me from trying. Our neighbors are big fans, too!
+    wrongAnswers:
+    - How am I supposed to make sounds with that?!
+    - Does it look anything like sopilka?!
+    - 'The only sound I can produce from this is "No, it''s not my sopilka." '
+    - This could do as an instrument... of torture!
+    - Wrong!
+    - Nah, that's not it.
+  - riddleNumber: Riddle3
+    riddleName: "What else should I bring?.. Oh, I better make sure I don\u2019t
+      kill anyone with my morning breath!"
+    rightItem: Tooth
+    rightAnswer: There it is! My breath will be cooler than a penguin's prom date.
+      Reputation saved!
+    wrongAnswers:
+    - How can it possibly help me with my oral hygiene?!
+    - No way I'm brushing my teeth with this!
+    - Sure, I won't kill anybody if I kill myself first, brushing my teeth with this!
+    - There are infinite ways in which this {b}won't{/b} make my breath minty and
+      fresh.
+    - Wrong!
+  - riddleNumber: Riddle4
+    riddleName: Now, I should have some spares in case my pen runs out.
+    rightItem: Pen
+    rightAnswer: Here you are! Can never have too many pens and pencils!
+    wrongAnswers:
+    - No clue how I'm gonna write with this!
+    - On the other hand, I can always write with my blood, sweat, and tears!
+    - This looks nothing like it!
+    - Okay, pencil will do if I don't find the pen. Does it look anything like a
+      pencil?!
+  - riddleNumber: Riddle5
+    riddleName: What's next? I need some burr if aVa's not around to perk me up.
+    rightItem: Coffee
+    rightAnswer: Yes! A day without burr coffee is a waste of sun.
+    wrongAnswers:
+    - Not sure I wanna know what coffee made of this tastes like...
+    - 'If I put it in a mug and pour some hot water on top, will it get me energized? '
+    - Wrong!
+    - I guess it's just not my cup of, erm, burr.
+    - Coffee has two Fs, two Es, and zero in common with this thing!
+  - riddleNumber: Riddle6
+    riddleName: 'I should bring some extra food as well in case this business takes
+      longer than expected. '
+    rightItem: Nuts
+    rightAnswer: "Swell! These \xD4fflia nuts will keep me running for a few days. "
+    wrongAnswers:
+    - I. Will. Not. Eat. This.
+    - Takes a master chef to turn this into a meal but even then I'll pass!
+    - This takes edible to a whole new level... namely, that of inedible!
+    - If that's my breakfast, I may not need lunch.
+    - I'll rather eat my tooth powder!
+  - riddleNumber: Riddle7
+    riddleName: Who knows what time I'll be back. Better make sure I let myself in
+      without disturbing Grandy.
+    rightItem: Keys
+    rightAnswer: Found em!
+    wrongAnswers:
+    - This won't open the door even if I ask {b}real{/b} nice!
+    - It might be a key to understanding why we are where we are as a society. But
+      it sure as hell isn't a key to my apartment.
+    - How's this supposed to open my apartment door exactly?
+    - There may be a lock somewhere, waiting to be opened by this thing. Too bad
+      it's not my apartment's lock. Wait... not too bad at all!
+    - Persistence will open doors, ey say. Well, good luck opening my apartment with
+      this!
+  - riddleNumber: Riddle8
+    riddleName: Now, I absolutely need my Super-Duper-Dooka-Booka-Poly-Gizmo.
+    rightItem: Knife
+    rightAnswer: There you are! This pocketknife is literally more useful than me!
+    wrongAnswers:
+    - This thing's barely got one function... and I'm looking for my fantastic multi-tool!
+    - Can I file my nails while opening a bottle of wine with it? (extended:) That's
+      what I thought.
+    - Does it have a reusable toothpick inside?
+    - Can I cut bread and spread butter on it with this thing?
+    - Nah, that's not it.
+  - riddleNumber: Riddle9
+    riddleName: What else do I need? It could get chilly up on that hill.
+    rightItem: Jacket
+    rightAnswer: 'Good, I''m ready to face the winds of change! '
+    wrongAnswers:
+    - I doubt that'll save me from the wind.
+    - Nah, that won't save me.
+    - This doesn't even warm my heart!
+    - I'm gonna freeze to death!
+  - riddleNumber: Riddle10
+    riddleName: Now to the boring stuff. Where are my documents?
+    rightItem: Passport
+    rightAnswer: Here it is, the book with my best portrait ever!
+    wrongAnswers:
+    - Does it look anything like my passport?!
+    - Nah, wrong item.
+    - I'm not getting anywhere with this "passport"!
+    - 'That''s my ID alright. Name''s nuTellah, but friends simply call me nuts. '
+  - riddleNumber: Riddle11
+    riddleName: I'll probably also need a couple of kuns.
+    rightItem: Wallet
+    rightAnswer: Oh, the sweet rustling of leaves... Wish I had a whole tree!
+    wrongAnswers:
+    - I don't keep my money there!
+    - I could sell this for a few kuns, but I'm not that desperate... yet.
+    - Nah, that's not it.
+    - Don't recall stacking my dough in this!
+  - riddleNumber: Riddle12
+    riddleName: Almost forgot! Gotta keep my skin hydrated.
+    rightItem: Cream
+    rightAnswer: Found it! There may be numerous embarassments lying ahead of me,
+      but dry skin ain't gonna be one!
+    wrongAnswers:
+    - This won't do.
+    - It will hydrate my skin how?
+    - Wrong!
+    - I need a crash course in chemistry to turn this into a gel. Or I can just find
+      my cream!
+    - Looking forward to applying {b}this{/b} on my skin!
+  - riddleNumber: Riddle13
+    riddleName: 'What can realistically happen, though, is I get a hole in my sock.
+      Better have a spare! '
+    rightItem: Socks
+    rightAnswer: 'Here you are! You had to be real sinners in the previous life to
+      be hugging my feet 24/7 now! '
+    wrongAnswers:
+    - That is the weirdest sock I've ever seen!
+    - This won't do.
+    - Nah, I really prefer my socks to be my socks.
+  - riddleNumber: Riddle14
+    riddleName: Last but not least, I gotta look cool when I enter the University.
+      There's only one item in my arsenal of cool...
+    rightItem: Glasses
+    rightAnswer: Found em! Be ready to get outvogued, Vaughis!
+    wrongAnswers:
+    - How cool is that? Yeah, not very...
+    - Maybe somebody could make it look cool but I'm not cool enough to do that.
+    - Nah, that's not it.
+    - Honestly, it's not really cool and what's worse, it isn't hot either!

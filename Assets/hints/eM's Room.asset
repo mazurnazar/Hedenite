@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8791631728789193138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde83bbbe0f71419144c7226bfce5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames:
+  - Air Humidifier Collider
+  description: "I need to turn on the air humidifier, it\u2019s in the middle of
+    the room."
+  completed: 0
+--- !u!114 &-5004426869902432250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde83bbbe0f71419144c7226bfce5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames:
+  - Book 1
+  - Book 2
+  - 'Book 3 '
+  - Book 4
+  - Window
+  - Desk
+  description: I should check everything in the room before leaving.
+  completed: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f67fbc301b70ab841ac19be13eee1d01, type: 3}
+  m_Name: eM's Room
+  m_EditorClassIdentifier: 
+  tasks:
+  - {fileID: -8791631728789193138}
+  - {fileID: -5004426869902432250}
+  - {fileID: 3848502788714709577}
+--- !u!114 &3848502788714709577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fde83bbbe0f71419144c7226bfce5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames: []
+  description: I should click bottom of screen....
+  completed: 0
