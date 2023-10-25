@@ -10653,7 +10653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scope: 2
   key: Puzzle
-  value: 1
+  value: 0
 --- !u!114 &909540161
 MonoBehaviour:
   m_ObjectHideFlags: 2

@@ -234,7 +234,7 @@ TextureImporter:
       213: -4899880274800511158
     second: granny_new_part1_talks (5)_76
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -255,7 +255,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -294,7 +293,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -310,30 +308,6 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1974,84 +1948,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      granny_new_part1_talks (5)_0: 7677010376645041057
-      granny_new_part1_talks (5)_1: -299767894288347073
-      granny_new_part1_talks (5)_10: 6784885739051054830
-      granny_new_part1_talks (5)_11: -133749435711867832
-      granny_new_part1_talks (5)_12: 7246207158791194327
-      granny_new_part1_talks (5)_13: -4416596958362358940
-      granny_new_part1_talks (5)_14: -5885328085154923053
-      granny_new_part1_talks (5)_15: 8491170618376055311
-      granny_new_part1_talks (5)_16: 491233064351875161
-      granny_new_part1_talks (5)_17: -5684594428813628604
-      granny_new_part1_talks (5)_18: 8885168995489292306
-      granny_new_part1_talks (5)_19: 4247791202345104039
-      granny_new_part1_talks (5)_2: 2876760839747260343
-      granny_new_part1_talks (5)_20: -8396209025737583135
-      granny_new_part1_talks (5)_21: -4450027449822237458
-      granny_new_part1_talks (5)_22: 5464370856206728184
-      granny_new_part1_talks (5)_23: -8026760815054881417
-      granny_new_part1_talks (5)_24: -9115059497074267669
-      granny_new_part1_talks (5)_25: 8921072438573431081
-      granny_new_part1_talks (5)_26: 2068011396775338809
-      granny_new_part1_talks (5)_27: 8891806575280415441
-      granny_new_part1_talks (5)_28: 5702788878711729106
-      granny_new_part1_talks (5)_29: 5208949549685482747
-      granny_new_part1_talks (5)_3: 8183871494576203636
-      granny_new_part1_talks (5)_30: 5020232315585943729
-      granny_new_part1_talks (5)_31: 6800901497307540530
-      granny_new_part1_talks (5)_32: -3917965741866732995
-      granny_new_part1_talks (5)_33: 2562004305154782742
-      granny_new_part1_talks (5)_34: -4650828787165137551
-      granny_new_part1_talks (5)_35: -2927165338945114695
-      granny_new_part1_talks (5)_36: 7408808280301216980
-      granny_new_part1_talks (5)_37: -9025221427130702716
-      granny_new_part1_talks (5)_38: 443216286225650611
-      granny_new_part1_talks (5)_39: 7893851103920672901
-      granny_new_part1_talks (5)_4: 8759262428620330822
-      granny_new_part1_talks (5)_40: -1940690082015923962
-      granny_new_part1_talks (5)_41: -927615201217379894
-      granny_new_part1_talks (5)_42: 2442782452106489399
-      granny_new_part1_talks (5)_43: 3290303773555782643
-      granny_new_part1_talks (5)_44: 2370553721028651375
-      granny_new_part1_talks (5)_45: -1251916344278558549
-      granny_new_part1_talks (5)_46: 4763712675534986994
-      granny_new_part1_talks (5)_47: -6309079486148308867
-      granny_new_part1_talks (5)_48: -1661361271989943712
-      granny_new_part1_talks (5)_49: -2292379399472229342
-      granny_new_part1_talks (5)_5: -8089446923661269384
-      granny_new_part1_talks (5)_50: 6821995269245477281
-      granny_new_part1_talks (5)_51: 7461145820882614046
-      granny_new_part1_talks (5)_52: -1027157388898559419
-      granny_new_part1_talks (5)_53: 412793646118170800
-      granny_new_part1_talks (5)_54: 2075362206120451887
-      granny_new_part1_talks (5)_55: -9155856864709680621
-      granny_new_part1_talks (5)_56: -1352318334665258895
-      granny_new_part1_talks (5)_57: -1711131069806182849
-      granny_new_part1_talks (5)_58: -5894064655109882896
-      granny_new_part1_talks (5)_59: -6666125603282064601
-      granny_new_part1_talks (5)_6: 4715571847112538232
-      granny_new_part1_talks (5)_60: -1853269841972985660
-      granny_new_part1_talks (5)_61: 5563061171461655744
-      granny_new_part1_talks (5)_62: -1093572844107685973
-      granny_new_part1_talks (5)_63: -1923786240575734428
-      granny_new_part1_talks (5)_64: -1325472371082058188
-      granny_new_part1_talks (5)_65: 7478756284095913999
-      granny_new_part1_talks (5)_66: 4072377035102452688
-      granny_new_part1_talks (5)_67: 9012677165802712462
-      granny_new_part1_talks (5)_68: -4447419624206450892
-      granny_new_part1_talks (5)_69: -3080660436745924224
-      granny_new_part1_talks (5)_7: 8103590965958839499
-      granny_new_part1_talks (5)_70: 2964918096685447243
-      granny_new_part1_talks (5)_71: -4741083087586879783
-      granny_new_part1_talks (5)_72: 2119064413796158852
-      granny_new_part1_talks (5)_73: 1885840647394111529
-      granny_new_part1_talks (5)_74: -8618701189666708645
-      granny_new_part1_talks (5)_75: -4226437504774260416
-      granny_new_part1_talks (5)_76: -4899880274800511158
-      granny_new_part1_talks (5)_8: -8645208427263574421
-      granny_new_part1_talks (5)_9: -3042721070298566402
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
