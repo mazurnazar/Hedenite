@@ -20,7 +20,8 @@ public class TaskManager : MonoBehaviour
     [SerializeField] Coroutine currentCoroutine;
     [SerializeField] private ScenesManager sceneManager;
 
-    [SerializeField] private bool noTasksAvailable = false;
+     private bool noTasksAvailable;
+
     public void Start()
     {
         timer.TimerFinished += NextTask;
@@ -33,26 +34,37 @@ public class TaskManager : MonoBehaviour
     
     public void GetTasks(Task task)
     {
-        tasks.Add(task);
-        completed.Add(task.completed);
-        if(tasks.Count<2)
-        SetCurrentTask();
+        if (!task.completed)
+        {
+            tasks.Add(task);
+            completed.Add(task.completed);
+        }
+        if (tasks.Count < 2)
+            SetCurrentTask();
+        if (!noTasksAvailable)
+        {
+            timer.StartTimer();
+        }
     }
     
     public void SetCurrentTask()
     {
-        if (tasks.Count == 0) {  return; }
+
+        //if (tasks.Count == 0) { noTasksAvailable = true; return; }
+
+
+        timer.timerActive = true;
+        noTasksAvailable = false;
         bool setTask = false;
         while (!setTask)
         {
+            if (currentTaskNumber >= tasks.Count) { noTasksAvailable = true; return; }
+            /*
             currentTask = tasks[currentTaskNumber];
             currentTaskDescription = currentTask.description;
 
             if (currentTask.completed)
             {
-
-               
-
                 Debug.Log(currentTaskDescription);
                 if (currentTaskNumber < tasks.Count)
                     currentTaskNumber++;
@@ -61,9 +73,16 @@ public class TaskManager : MonoBehaviour
                     noTasksAvailable = true;
                     break;
                 }
-            }
+            }*/
             else
             {
+                //Debug.Log("here");
+                noTasksAvailable = false;
+                currentTask = tasks[currentTaskNumber];
+                currentTaskDescription = currentTask.description;
+
+                currentTaskNumber++;
+                setTask = true;/*
                 if (currentTaskNumber < tasks.Count)
                 {
                     currentTaskNumber++;
@@ -73,49 +92,50 @@ public class TaskManager : MonoBehaviour
                 {
                     noTasksAvailable = true;
                     break;
-                }
+                }*/
             }
         }
     }
+    
     public void NextTask()
     {
-        //Debug.Log(currentTaskDescription);
-        if (noTasksAvailable) return;
+
+       // Debug.Log("no task " + noTasksAvailable);
+        if (noTasksAvailable)
+        {
+            timer.StopTimer();
+            timer.TimerFinished -= NextTask;
+            return;
+        }
         timerButton.gameObject.SetActive(true);
         flick = true;
         
         currentCoroutine = StartCoroutine(ButtonFlicker());
-        /*
-        foreach (var item in tasks)
-        {
-            if (item.completed) continue;
-            item.ToDo();
-            break;
-        }*/
     }
-
+    
     public IEnumerator ButtonFlicker()
     {
-        float step = 0;
-        while (step <= 1)
+        if (flick)
         {
-            timerButton.GetComponent<Image>().color = Color.Lerp(Color.white, Color.clear, step);
-            yield return new WaitForSeconds(.1f);
-            step += 0.1f;
-        }
-        step = 0;
+            float step = 0;
+            while (step <= 1)
+            {
+                timerButton.GetComponent<Image>().color = Color.Lerp(Color.white, Color.clear, step);
+                yield return new WaitForSeconds(.1f);
+                step += 0.1f;
+            }
+            step = 0;
 
-        while (step <= 1)
-        {
-            timerButton.GetComponent<Image>().color = Color.Lerp(Color.clear, Color.white, step);
-            yield return new WaitForSeconds(.1f);
-            step += 0.1f;
+            while (step <= 1)
+            {
+                timerButton.GetComponent<Image>().color = Color.Lerp(Color.clear, Color.white, step);
+                yield return new WaitForSeconds(.1f);
+                step += 0.1f;
+            }
         }
     }
     public void TaskButtonPress()
     {
-
-        
         taskPanel.gameObject.SetActive(true);
         taskPanel.GetComponentInChildren<TextMeshProUGUI>().text = currentTaskDescription;
         timerButton.GetComponent<Image>().color = Color.clear;

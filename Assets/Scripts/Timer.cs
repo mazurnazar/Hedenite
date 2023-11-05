@@ -7,11 +7,12 @@ public class Timer : MonoBehaviour
 {
     [SerializeField] private float timeToWait;
     [SerializeField] private bool timerOut;
-    [SerializeField] private bool timerActive;
+    [SerializeField] public bool timerActive;
     public bool TimerOut { get => timerOut; }
     public delegate void OnTimer();
     public event OnTimer TimerFinished;
     [SerializeField] int seconds;
+    [SerializeField] TaskManager taskManager;
     
     [SerializeField] JournalManager journal_Manager;
     Coroutine currentCoroutine;
@@ -22,9 +23,9 @@ public class Timer : MonoBehaviour
 
         JournalManager._instance.JournalOn += StartTimerEvent;
        // JournalManager._instance.JournalOn += StartTimer;
-
+        /*
         currentCoroutine = StartCoroutine( StartTimerCountdown());
-        StartTimer();
+        StartTimer();*/
     }
     public void StartTimerEvent(bool activate)
     {
@@ -33,23 +34,28 @@ public class Timer : MonoBehaviour
     }
     public void StartTimer()
     {
+        //Debug.Log(timerActive);
+        if (!timerActive) return;
         seconds = 0;
-        timerActive = true;
-        StopCoroutine(currentCoroutine);
+        if (currentCoroutine != null)
+            StopCoroutine(currentCoroutine);
         currentCoroutine = StartCoroutine(StartTimerCountdown());
 
     }
     public IEnumerator StartTimerCountdown()
     {
+       // Debug.Log("timer started");
         yield return new WaitForSeconds(timeToWait);
         timerOut = true;
-        timerActive = false;
+       // timerActive = false;
         TimerFinished?.Invoke();
     }
     public void StopTimer()
     {
+        if(currentCoroutine!=null)
         StopCoroutine(currentCoroutine);
-        timerActive = false;
+        //Debug.Log("timer stopped");
+        //timerActive = false;
     }
     private void OnDestroy()
     {

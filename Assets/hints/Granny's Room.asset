@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9fde83bbbe0f71419144c7226bfce5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemNames: []
+  itemNames:
+  - Exit Granny's Room
   description: "I shouldn\u2019t linger here, it\u2019s time to go out and get Granny
     what e needs. "
   completed: 0

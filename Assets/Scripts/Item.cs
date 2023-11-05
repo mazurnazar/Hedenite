@@ -111,7 +111,7 @@ public class Item : MonoBehaviour
             GetComponent<Parallax>().enabled = false;
 
         Vector3 currentScale = transform.localScale;
-        Vector3 nextScale = currentScale * 4;
+        Vector3 nextScale = currentScale * 3;
         if (Image != null)
             GetComponent<SpriteRenderer>().sprite = Image;
         float step = 0;

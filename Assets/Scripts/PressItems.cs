@@ -61,8 +61,9 @@ public class PressItems : Task
             //Debug.Log(item.Clicked);
             if (!item.Clicked) return;
             else item.OnPress -= CheckPressed;
+            newTask.completed = true;
         }
-        completed = true;
+        // completed = true;
         OnComplete();
     }
 

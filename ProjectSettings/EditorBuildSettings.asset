@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/eM's Room.unity
     guid: 4121240bc541cd94db0fe9454dae14a5
   - enabled: 1
+    path: Assets/Scenes/Haarva Road.unity
+    guid: d6f147ca19e4ad84ba715e705e639a72
+  - enabled: 1
     path: Assets/Scenes/Granny's Room.unity
     guid: 3585efbb577b2a54e9a896416633182f
   - enabled: 1

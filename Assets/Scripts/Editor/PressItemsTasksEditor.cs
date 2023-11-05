@@ -27,26 +27,33 @@ public class PressItemsTasksEditor : Editor
         {
             EditorGUILayout.BeginVertical("box");
             EditorGUILayout.LabelField($"Task {i + 1}:");
+
+            pressItemsTasks.tasks[i].completed = EditorGUILayout.Toggle("Completed", pressItemsTasks.tasks[i].completed);
+           
             pressItemsTasks.tasks[i] = EditorGUILayout.ObjectField($"Task {i + 1}", pressItemsTasks.tasks[i], typeof(NewTask), false) as NewTask;
 
             pressItemsTasks.tasks[i].description = EditorGUILayout.TextField("Description", pressItemsTasks.tasks[i].description);
 
             if (pressItemsTasks.tasks[i] != null)
             {
-                List<string> items = pressItemsTasks.tasks[i].itemNames;
-                int size = Mathf.Max(0, EditorGUILayout.IntField("Size", items.Count));
-                while (size > items.Count)
+                if (!pressItemsTasks.tasks[i].completed)
                 {
-                    items.Add(null);
-                }
-                while (size < items.Count)
-                {
-                    items.RemoveAt(items.Count - 1);
-                }
-                for (int j = 0; j < items.Count; j++)
-                {
-                    items[j] = EditorGUILayout.TextField("Name " + j, items[j]);
-                    //items[j] = EditorGUILayout.ObjectField("Element " + j, items[j], typeof(Item), true) as Item;
+
+                    List<string> items = pressItemsTasks.tasks[i].itemNames;
+                    int size = Mathf.Max(0, EditorGUILayout.IntField("Size", items.Count));
+                    while (size > items.Count)
+                    {
+                        items.Add(null);
+                    }
+                    while (size < items.Count)
+                    {
+                        items.RemoveAt(items.Count - 1);
+                    }
+                    for (int j = 0; j < items.Count; j++)
+                    {
+                        items[j] = EditorGUILayout.TextField("Name " + j, items[j]);
+                        //items[j] = EditorGUILayout.ObjectField("Element " + j, items[j], typeof(Item), true) as Item;
+                    }
                 }
                 if (GUILayout.Button("Delete"))
                 {

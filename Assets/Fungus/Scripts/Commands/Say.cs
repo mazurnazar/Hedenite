@@ -212,7 +212,6 @@ namespace Fungus
                 Continue();
 
                 DialogueStopped?.Invoke();
-
                 if (animator.Value != null)
                     AnimationStop?.Invoke(parameterName.Value);
                 //animator.Value.SetBool(parameterName.Value, false);

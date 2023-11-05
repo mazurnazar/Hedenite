@@ -7,8 +7,11 @@ public class JournalButton : MonoBehaviour
     [SerializeField] FieldType fieldType;
     [SerializeField] JournalManager journal_Manager;
     [SerializeField] public bool newInfo = false;
-    [SerializeField] int buttonNumber;
-     public Sprite open, closed;
+    [SerializeField] Sprite open, closed;
+    public Sprite Open => open;
+    public Sprite Closed => closed;
+    [SerializeField] Color currentColor;
+    public Color CurrentColor => currentColor;
     void Start()
     {
         GetComponent<Button>().onClick.AddListener(ChangeButtonSprite);
@@ -26,6 +29,7 @@ public class JournalButton : MonoBehaviour
         }
         newInfo = false;
         ButtonGlow(false);
+        journal_Manager._lastFieldChanged = fieldType;
         journal_Manager.CheckNewInfo();
     }
 
@@ -37,18 +41,44 @@ public class JournalButton : MonoBehaviour
         GetComponent<Image>().sprite = open;
         journal_Manager._currentButtonPressed = this;
     }
+
+    public IEnumerator FadeToWhiteColor()
+    {
+        float i = 0;
+
+        while(i<=1)
+        {
+            GetComponent<Image>().color = Color.Lerp(journal_Manager.GlowColor, Color.white, i);
+            i += 0.1f;
+            yield return new WaitForSeconds(.1f);
+        }
+        GetComponent<Image>().color = Color.white;
+        currentColor = Color.white;
+        JournalSaveSystem.Instance.newInfoFields[(int)fieldType] = false;
+        journal_Manager._currentButtonPressed = this;
+        JournalSaveSystem.Instance.lastFieldChanged = fieldType;
+        // journal_Manager._lastFieldChanged = fieldType;
+        newInfo = false;
+        journal_Manager.CheckNewInfo();
+    }
     // change color when new info available
     public void ButtonGlow(bool glow)
     {
         if (glow)
         {
             JournalSaveSystem.Instance.newInfoFields[(int)fieldType] = true;
-            GetComponent<Image>().color = Color.yellow;
+            GetComponent<Image>().color = journal_Manager.GlowColor;
+            currentColor = journal_Manager.GlowColor; 
         }
         else
         {
             JournalSaveSystem.Instance.newInfoFields[(int)fieldType] = false;
+            if(currentColor == journal_Manager.GlowColor)
+            StartCoroutine(FadeToWhiteColor());
             GetComponent<Image>().color = Color.white;
+            currentColor = Color.white;
+            newInfo = false;
+            journal_Manager.CheckNewInfo();
         }
     }
 }

@@ -20,6 +20,9 @@ public class JournalManager : MonoBehaviour
     public delegate void OnJournal(bool active);
     public event OnJournal JournalOn;
     public Scene scene;
+
+    [SerializeField] Color glowColor;
+    public Color GlowColor => glowColor;
     private void Start()
     {
         //JournalSaveSystem.Instance.LoadInfo();
@@ -51,12 +54,13 @@ public class JournalManager : MonoBehaviour
         {
             if (item.newInfo) return;
         }
+        Debug.Log("no new info");
         JournalGlowOff();
     }
     public void JournalGlowOn()
     {
         if (_journalGlowing) return;
-        JournalButton.GetComponent<Image>().color = Color.yellow;
+        JournalButton.GetComponent<Image>().color = glowColor;
         _journalGlowing = true;
     }
     public void JournalGlowOff()
@@ -86,12 +90,15 @@ public class JournalManager : MonoBehaviour
         {
             if (_lastFieldChanged == _fields[i]._fieldType)
             {
-                _buttons[i].GetComponent<Image>().sprite = _buttons[i].open;
+                _buttons[i].GetComponent<Image>().sprite = _buttons[i].Open;
                 _fields[i].gameObject.SetActive(true);
+               // _buttons[i].ButtonGlow(false);
+               if(_buttons[i].CurrentColor==glowColor)
+                StartCoroutine(_buttons[i].FadeToWhiteColor());
             }
             else
             {
-                _buttons[i].GetComponent<Image>().sprite = _buttons[i].closed;
+                _buttons[i].GetComponent<Image>().sprite = _buttons[i].Closed;
                 _fields[i].gameObject.SetActive(false);
             }
         }

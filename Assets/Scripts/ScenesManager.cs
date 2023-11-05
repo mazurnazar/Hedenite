@@ -25,24 +25,32 @@ public class ScenesManager : MonoBehaviour
             {
                 currentScene = item;
                 currentScene.currentStage = 1;
-                Debug.Log(currentScene);
+                //Debug.Log(currentScene);
                 AudioManager.Instance.ChangeAudioMixerGroup(currentScene.mixerGroup);
             }
         }
         if (pressItemsTasks != null)
         {
+            int counter = 0;
             foreach (var item in pressItemsTasks.tasks)
             {
-                currentScene.gameObject.AddComponent<PressItems>();
+                if (!item.completed)
+                {
+                    PressItems pressItems = currentScene.gameObject.AddComponent<PressItems>();
+                    pressItems.newTask = pressItemsTasks.tasks[counter];
+                    counter++;
+                }
+                else counter++;
                 
             }
+            /*
             int counter = 0;
             foreach (var item in currentScene.gameObject.GetComponents<PressItems>())
             {
                 item.newTask = pressItemsTasks.tasks[counter];
                 counter++;
 
-            }
+            }*/
         }
         MoveToScene?.Invoke();
     }

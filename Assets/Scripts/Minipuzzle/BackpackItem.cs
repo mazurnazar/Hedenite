@@ -16,7 +16,8 @@ public class BackpackItem : MonoBehaviour
     [SerializeField] SpriteRenderer backpack;
 
     [SerializeField] private bool canPut;
-    [SerializeField] PolygonCollider2D objectOver;
+    [SerializeField] PolygonCollider2D objectOverArea;
+    [SerializeField] private BackpackItem objectOverItem;
    
     /*private float timedelay = .3f;
     private float currentTime;*/
@@ -28,6 +29,9 @@ public class BackpackItem : MonoBehaviour
     [SerializeField] private int objectsOver = 0;
 
     private const string putTag = "putArea";
+    private const string itemTag = "item";
+    
+    [SerializeField] private float distanceToIdeal = 0.1f;
     //private int rotationAngle = 45;
 
     private void Start()
@@ -48,7 +52,7 @@ public class BackpackItem : MonoBehaviour
     private void OnMouseUp()
     {
         GetComponent<SpriteRenderer>().sortingOrder--;
-        if (canPut && objectsOver < 2 && IsItemInsideOutArea())
+        if ((canPut && objectsOver < 2 && IsItemInsideOutArea())||CheckDistanceToIdeal())
         {
             if (CheckDistanceToIdeal())
                 transform.localPosition = backpackPlace;
@@ -72,7 +76,7 @@ public class BackpackItem : MonoBehaviour
             Vector2 worldVertex = item.transform.TransformPoint(vertex);
            
             // Check if the vertex is inside Object 2
-            if (!objectOver.OverlapPoint(worldVertex))
+            if (!objectOverArea.OverlapPoint(worldVertex))
             {
                 allPointsInside = false;
                 return false;// If any point is outside Object 2, set to false
@@ -85,8 +89,13 @@ public class BackpackItem : MonoBehaviour
     }
     public bool CheckDistanceToIdeal()
     {
-        if (Vector2.Distance(transform.localPosition, backpackPlace) < .1f)
-            return true;
+        if (Vector2.Distance(transform.localPosition, backpackPlace) < distanceToIdeal)
+        {
+            if (objectOverItem == null) return true;
+            if (objectOverItem.CheckDistanceToIdeal()) return true;
+            else return false;
+           // return true;
+        }
         return false;
     }
 
@@ -100,9 +109,17 @@ public class BackpackItem : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         objectsOver++;
+
+        if (collision.tag == itemTag)
+        {
+            canPut = false;
+            objectOverItem = collision.GetComponent<BackpackItem>();
+        }
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
+
+        // Debug.Log(collision.tag);
         if (collision.tag != putTag)
         {
             canPut = false;
@@ -111,12 +128,19 @@ public class BackpackItem : MonoBehaviour
         if (collision.tag == putTag)
         {
             canPut = true;
-            objectOver = collision.GetComponent<PolygonCollider2D>();
+            objectOverArea = collision.GetComponent<PolygonCollider2D>();
         }
+
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         objectsOver--;
+
+        if (collision.tag == itemTag)
+        {
+            canPut = false;
+            objectOverItem = null;
+        }
         //Debug.Log("exit " + gameObject.name +" "+ collision.name);
     }
 

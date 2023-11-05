@@ -9,7 +9,8 @@ public enum FieldType
     Log,
     Quest,
     Fact,
-    Skill
+    Skill,
+    None
 }
 public class FieldInfo : MonoBehaviour
 {
